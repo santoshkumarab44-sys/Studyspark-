@@ -1,0 +1,6 @@
+{
+  "name": "StudySpark",
+  "description": "Modern educational app for Classes 6 to 12 with interactive notes, subject guides, and conceptual MCQ quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
